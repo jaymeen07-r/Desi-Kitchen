@@ -157,10 +157,8 @@ Payment & Table Closed
 
 
 ### 📄 License
-This project is intended for real-world restaurant use and **may be modified or extended** as per business requirements.
-```
+This project is intended for real-world restaurant use and **may be modified or extended** as per business requirements.  
+It is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
 
-Would you like me to append sections for installation steps, tech stack,
-and database schema at the end so developers can set it up easily?
-```
+- Would you like me to append sections for installation steps, tech stack, and database schema at the end so developers can set it up easily?
 
