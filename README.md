@@ -105,7 +105,7 @@ Papad, Salad, Sweets, Chaas
 ---
 
 ### 📱 Account Page (Mobile Number Based)
-- Login with **mobile number + OTP**  
+- Login with **mobile number** Directly  
 - See order history and previous bills  
 - Features:
   - View order history with dates  
@@ -160,4 +160,7 @@ Payment & Table Closed
 This project is intended for real-world restaurant use and **may be modified or extended** as per business requirements.
 ```
 
-Would you like me to append sections for **installation steps, tech stack, and database schema** at the end so developers can set it up easily?
+Would you like me to append sections for **installation steps, tech stack,
+and database schema** at the end so developers can set it up easily?
+```
+
